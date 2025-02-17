@@ -63,7 +63,7 @@ npm install dotenv
 app.use("/people", peopleRoute);
 ```
 
-##### Anstall mongodb driver
+##### Install mongodb driver
 ```
 npm install mongodb
 ```
